@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821892093596",
+    "project_id": "party-quick-v2-app",
+    "storage_bucket": "party-quick-v2-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821892093596:android:9924018afee51563c77f59",
+        "android_client_info": {
+          "package_name": "com.example.partyquick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821892093596-hve66jv27vrbr3saetka5mf29jdh45b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Sn11jJlAtrC3gYgo9pCnWONtjKrCY7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821892093596-hve66jv27vrbr3saetka5mf29jdh45b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
